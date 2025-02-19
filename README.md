@@ -11,17 +11,6 @@ The **Facial Recognition System** is an AI-powered application designed to detec
 - 🗄 **Database Integration**: Supports storing and retrieving facial data.
 - 🔐 **Security Measures**: Ensures data privacy and protection.
 
-## 🛠 Technologies Used
-- **Programming Language**: Python 🐍
-- **Libraries & Frameworks**:
-  - OpenCV (Computer Vision) 📷
-  - dlib (Facial Recognition) 🏷
-  - TensorFlow/PyTorch (Deep Learning) 🧠
-  - Flask/Django (Web Framework) 🌐
-  - MySQL/PostgreSQL (Database) 🗃
-- **Hardware Requirements**:
-  - GPU (for accelerated processing) 🚀
-  - Camera (for real-time recognition) 🎥
 
 ## 🚀 Installation
  **Clone the repository:**
